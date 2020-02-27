@@ -1,0 +1,32 @@
+[
+  {
+    "log_file": "src/main/java/files/application1.txt",
+    "application_name": "First Application",
+    "users": [
+      {
+        "name": "Nimal",
+        "email": "nimal@gmail.com",
+        "phone": "0777123441",
+        "notificationTypes": "email,sms"
+      },
+      {
+        "name": "Kamal",
+        "email": "kamal@gmail.com",
+        "phone": "0756324572",
+        "notificationTypes": "email"
+      }
+    ]
+  },
+  {
+    "log_file": "src/main/java/files/application2.txt",
+    "application_name": "Second Application",
+    "users": [
+      {
+        "name": "Saman",
+        "email": "saman@yahoo.com",
+        "phone": "0712235577",
+        "notificationTypes": "email,sms"
+      }
+    ]
+  }
+]
